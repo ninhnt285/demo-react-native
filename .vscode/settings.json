@@ -1,0 +1,5 @@
+{
+  "autoimport.doubleQuotes": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
