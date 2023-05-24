@@ -1,0 +1,2 @@
+- Use react-native-keychain to store token key
+- Use babel-plugin-root-import to set root path (https://dev-yakuza.posstree.com/en/react-native/root-import/)

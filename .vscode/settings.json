@@ -1,5 +1,6 @@
 {
   "autoimport.doubleQuotes": false,
   "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2
 }
